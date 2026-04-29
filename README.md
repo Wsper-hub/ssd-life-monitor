@@ -13,3 +13,7 @@
 ```bash
 sudo apt install nvme-cli smartmontools
 # ssd-life-monitor
+
+## Запуск
+
+ssd-life
